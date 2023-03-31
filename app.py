@@ -7,8 +7,8 @@ st.set_page_config(page_title="AVA", page_icon=":robot_face:")
 st.markdown("<h1 style='text-align: center;'>AVA - a totally harmless chatbot 😬</h1>", unsafe_allow_html=True)
 
 # Set org ID and API key
-openai.organization = "org-lJSTlXk01YcFQ92Vd0Yzf6f4"
-openai.api_key = "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"
+openai.organization = "<YOUR_OPENAI_ORG_ID>"
+openai.api_key = "<YOUR_OPENAI_API_KEY>"
 
 # Initialise session state variables
 if 'generated' not in st.session_state:
