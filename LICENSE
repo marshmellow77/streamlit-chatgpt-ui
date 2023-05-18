@@ -1,6 +1,31 @@
-MIT License
+Copyright (c) 2023 @S1S10 https://huggingface.co/S1S10
+Released under the MIT license
 
-Copyright (c) 2023 Heiko Hotz
+This software is a modified version of the original software licensed under
+the MIT License. Original copyright (c) 2023 Heiko Hotz. All rights reserved.
+
+This software includes modifications made by @S1S10 to the original software
+licensed under the MIT License. Modified portions of this software are:
+- UX
+  - added markdown style of display message.
+  - added settings and switch logo or avatar.
+  - added avatoar option.
+  - added GPT stream response.
+- Sidebar menu
+  - added Upload .csv file.
+  - added Autopilot .csv data continuous for loop.
+  - added Reproduction GPT conversation on saved .csv data.
+  - added Switch reset Total cost.
+  - added set GPT icon.
+  - added (API) Key visible and edit.
+  - added Role visible and edit.
+  - added Show session_state.
+  - added Download data(Conversation) as .csv file.
+.
+
+https://opensource.org/license/mit/
+
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
